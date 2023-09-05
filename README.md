@@ -1,2 +1,1 @@
-# best-repo-ever
-sample
+My First Commit
